@@ -30,7 +30,7 @@
   * [Decorator Pattern Principles]
   * [Java Decorator Pattern Implementation]
 
-- **[Java Observer Pattern]**  [Java Observer Design Pattern](https://github.com/Yoontaeyoung860/Java_Design_Pattern/tree/main/src/Java_Observer_Pattern/README.md)
+- **[Java Observer Pattern]** [Java Observer Design Pattern](https://github.com/Yoontaeyoung860/Java_Design_Pattern/tree/main/src/Java_Observer_Pattern/README.md)
   * [Observer Pattern Principles]
   * [Java Observer Pattern Implementation]
 
