@@ -26,11 +26,11 @@
   * [Proxy Pattern Principles]
   * [Java Proxy Pattern Implementation]
 
-- **[Java Decorator Pattern]**
+- **[Java Decorator Pattern]** [Java Decorator Design Pattern](https://github.com/Yoontaeyoung860/Java_Design_Pattern/tree/main/src/Java_Decorator_Pattern/README.md)
   * [Decorator Pattern Principles]
   * [Java Decorator Pattern Implementation]
 
-- **[Java Observer Pattern]**
+- **[Java Observer Pattern]**  [Java Observer Design Pattern](https://github.com/Yoontaeyoung860/Java_Design_Pattern/tree/main/src/Java_Observer_Pattern/README.md)
   * [Observer Pattern Principles]
   * [Java Observer Pattern Implementation]
 
